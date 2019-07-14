@@ -1,0 +1,449 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 16em;
+  font-family: Georgia,serif;
+  font-size: 43px;
+  font-weight: normal;
+}
+
+.visa {
+  color: grey;
+  height: -70px;
+  font-family: Georgia,sans-serif;
+  font-size: 25px;
+  position: relative;
+  top: -20px;
+  left: -10px;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 16em;
+}
+
+.paradise {
+  position: relative;
+  top: -80px;
+  height: 700px;
+  display: block;
+  width: auto;
+  margin: auto;
+}
+
+.M {
+  height: 35px;
+  width: auto;
+  margin-left: 140px;
+  margin-top: 0px;
+}
+
+.header {
+  border-width: 2px;
+  padding-top:10px;
+}
+
+.onezero {
+  height: 45px;
+  margin-left: 139px;
+  margin-top: 8px;
+}
+
+.login {
+  color: #6c5ce7;
+  text-align: right;
+  margin-top: -36px;
+  margin-right: 280px;
+}
+
+.getstarted {
+  margin-top: -55px;
+  margin-left: auto;
+  margin-right: 150px;
+  padding:7px 4px 6px 4px;
+	border-radius:6px;
+	width:100px;
+	border:1px solid #6c5ce7;
+  color: #6c5ce7;
+}
+
+.follow {
+  padding:2px 2px 2px 2px;
+	border-radius:6px;
+	width:60px;
+  height: 15px;
+	border:1px solid #6c5ce7;
+  color: #6c5ce7;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  left: -110px;
+  top: -90px;
+}
+
+.harry {
+    border-radius:50px;
+    width:50px;
+    height:50px;
+    left: 120px;
+    position: relative;
+    left: 330px;
+    top: -20px;
+}
+
+.prenomtweet {
+  position: relative;
+  left: 70px;
+  top: -125px;
+  font-family: Georgia,sans-serif;
+  font-size: 15px;
+}
+
+.datetweet {
+  position: relative;
+  left: 70px;
+  top: -132px;
+  font-family: Georgia,sans-serif;
+  font-size: 15px;
+  color: grey;
+}
+
+header {
+  border-bottom: solid;
+  border-color: #bdc3c7;
+  border-width: 1px;
+  height: 50px;
+  width: 100%;
+  padding-bottom: -100px;
+}
+
+.nav {
+box-shadow: 0 8px 6px -12px #000000;
+height: 60px;
+}
+
+nav ul {
+  color: grey;
+  list-style-type: none;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+  top: -50px;
+  padding-right: 300px;
+  padding-left: 280px;
+  font-size: 15px;
+}
+
+.credit {
+  font-family: Georgia,sans-serif;
+  font-size: 15px;
+  color: grey;
+  position: relative;
+  top:-80px;
+  text-align: center;
+}
+
+#how {
+  position: relative;
+  left: -145px;
+}
+
+.Y {
+  text-align: center;
+  width: 90px;
+  border-radius: 100%;
+  background-color: black;
+  color: white;
+  font-family: Georgia,sans-serif;
+  font-size: 70px;
+  float: left;
+  margin-right: 20px;
+}
+
+.surligne {
+  text-decoration:underline;
+}
+
+.gras {
+  font-weight:bold;
+}
+
+.amazon {
+  height: 100px;
+  border-radius:5px;
+  margin-left: 10%;
+}
+
+.malaysia {
+  height: 100px;
+  border-radius:5px;
+  margin-left: 15px;
+}
+
+.libra {
+  height: 100px;
+  border-radius:5px;
+  margin-left: 15px;
+}
+
+#articles {
+  background-color: #fafafa;
+  left: 0%;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  float: none;
+}
+
+.follow4 {
+  padding:7px 7px 7px 7px;
+	border-radius:6px;
+	width:60px;
+  height: 15px;
+	border:1px solid #6c5ce7;
+  color: #6c5ce7;
+  text-align: center;
+  font-size: 16px;
+  position: absolute;
+  left: 0px;
+  top: 180px;
+}
+
+.thee {
+  width: 150px;
+  font-size: 17px;
+  position: absolute;
+  left: 0px;
+}
+
+#textgauche {
+  position: absolute;
+  left: 0px;
+  margin-left: 150px;
+}
+
+.facebook {
+  height: 25px;
+}
+
+.harryy {
+    border-radius:50px;
+    width:60px;
+    height:60px;
+    position: relative;
+    left: 320px;
+    bottom: 17px;
+}
+
+#tweet5 {
+  width: 50%;
+  float: right;
+}
+
+.harry2 {
+  border-radius:50px;
+  width:60px;
+  height:60px;
+  margin-left: 20%;
+  position: relative;
+  top: 120px;
+}
+
+.oz {
+  border-radius:3px;
+  width:60px;
+  height:60px;
+  position: relative;
+  top: 120px;
+}
+
+.facebook {
+ position: relative;
+ top: 430px;
+ left: 150px;
+}
+
+.harrylogo {
+  border-radius:50px;
+  width:60px;
+  height:60px;
+  margin-left: 220px;
+  position: relative;
+  top: 36px;
+  left: 90px;
+}
+
+.tag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding-right: 600px;
+  padding-left: 320px;
+  padding-top: 20px;
+}
+
+.tag li {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 7px;
+}
+
+.followharry {
+  padding:7px 7px 7px 7px;
+	border-radius:6px;
+	width:60px;
+  height: 15px;
+	border:1px solid #6c5ce7;
+  color: #6c5ce7;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  left: 290px;
+  bottom: 45px;
+}
+
+.medium {
+  font-family: Arial;
+  font-size: 15px;
+  color: grey;
+  position: relative;
+  bottom: 60px;
+  left: 214px;
+}
+
+.bloctext2 {
+  margin-top: -30px;
+}
+
+.tweetharry {
+  width: 50%;
+}
+
+.more1 {
+  color: grey;
+  font-size: 17px;
+  position: relative;
+  left: -180px;
+}
+
+.more2 {
+  color: grey;
+  font-size: 17px;
+  position: relative;
+  top: -37px;
+  left: 167px;
+}
+
+.more3 {
+  width: 30%;
+  color: grey;
+  font-size: 17px;
+  float: right;
+  position: relative;
+  right: 85px;
+  bottom: 92px;
+}
+
+.more4 {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top:-3%;
+  margin-left: 155px;
+
+}
+
+.more5 {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: -40px;
+  width: 25%;
+
+}
+
+.more6 {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top:-57px;
+  margin-right: 200px;
+
+}
+
+hr {
+  width: 55%;
+}
+
+.imageoz {
+  border-radius:7px;
+  width:60px;
+  height:60px;
+  float: right;
+  position: relative;
+  bottom: 195px;
+  right: 600px;
+}
+
+.followoz {
+  padding:7px 7px 7px 7px;
+	border-radius:6px;
+	width:60px;
+  height: 15px;
+	border:1px solid #6c5ce7;
+  color: #6c5ce7;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  bottom: 193px;
+  left: 320px;
+}
+
+.harrygui {
+  font-family: Arial;
+  font-size: 18px;
+  position: relative;
+  bottom: 125px;
+  left: 190px;
+}
+
+.apr {
+  font-family: Arial;
+  font-size: 15px;
+  color: grey;
+  position: relative;
+  bottom: 110px;
+  left: 214px;
+}
+
+.ttt {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  bottom: 245px;
+  left: 760px;
+}
+
+#visa2 {
+  margin-left: 336px;
+}
+
+#citation1 p {
+  font-style: italic;
+  font-size: 30px;
+}
+
+#citation2 p {
+  font-style: italic;
+  font-size: 30px;
+}
